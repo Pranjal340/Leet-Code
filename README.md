@@ -34,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Platinum0077/Leet-Code/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Platinum0077/Leet-Code/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Platinum0077/Leet-Code/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
