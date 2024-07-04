@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Platinum0077/Leet-Code/tree/master/0279-perfect-squares) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Platinum0077/Leet-Code/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Graph
 |  |
@@ -105,4 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Platinum0077/Leet-Code/tree/master/2299-merge-nodes-in-between-zeros) |
+## Math
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Platinum0077/Leet-Code/tree/master/0279-perfect-squares) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Platinum0077/Leet-Code/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
