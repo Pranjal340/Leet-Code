@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Platinum0077/Leet-Code/tree/master/0016-3sum-closest) |
+| [0143-reorder-list](https://github.com/Platinum0077/Leet-Code/tree/master/0143-reorder-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Platinum0077/Leet-Code/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
@@ -67,16 +68,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Platinum0077/Leet-Code/tree/master/0020-valid-parentheses) |
+| [0143-reorder-list](https://github.com/Platinum0077/Leet-Code/tree/master/0143-reorder-list) |
 ## Linked List
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Platinum0077/Leet-Code/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/Platinum0077/Leet-Code/tree/master/0143-reorder-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Platinum0077/Leet-Code/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Platinum0077/Leet-Code/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Platinum0077/Leet-Code/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/Platinum0077/Leet-Code/tree/master/0143-reorder-list) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Platinum0077/Leet-Code/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Hash Table
 |  |
