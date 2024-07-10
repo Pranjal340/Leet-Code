@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Platinum0077/Leet-Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Platinum0077/Leet-Code/tree/master/0368-largest-divisible-subset) |
 | [1293-three-consecutive-odds](https://github.com/Platinum0077/Leet-Code/tree/master/1293-three-consecutive-odds) |
+| [1376-selling-pieces-of-wood](https://github.com/Platinum0077/Leet-Code/tree/master/1376-selling-pieces-of-wood) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Platinum0077/Leet-Code/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/Platinum0077/Leet-Code/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/Platinum0077/Leet-Code/tree/master/1803-average-waiting-time) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/Platinum0077/Leet-Code/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/Platinum0077/Leet-Code/tree/master/0368-largest-divisible-subset) |
+| [1376-selling-pieces-of-wood](https://github.com/Platinum0077/Leet-Code/tree/master/1376-selling-pieces-of-wood) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Platinum0077/Leet-Code/tree/master/0201-bitwise-and-of-numbers-range) |
+## Memoization
+|  |
+| ------- |
+| [1376-selling-pieces-of-wood](https://github.com/Platinum0077/Leet-Code/tree/master/1376-selling-pieces-of-wood) |
 <!---LeetCode Topics End-->
