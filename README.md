@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1376-selling-pieces-of-wood](https://github.com/Platinum0077/Leet-Code/tree/master/1376-selling-pieces-of-wood) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Platinum0077/Leet-Code/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/Platinum0077/Leet-Code/tree/master/1720-crawler-log-folder) |
+| [1762-furthest-building-you-can-reach](https://github.com/Platinum0077/Leet-Code/tree/master/1762-furthest-building-you-can-reach) |
 | [1803-average-waiting-time](https://github.com/Platinum0077/Leet-Code/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Platinum0077/Leet-Code/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Two Pointers
@@ -118,10 +119,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Platinum0077/Leet-Code/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1762-furthest-building-you-can-reach](https://github.com/Platinum0077/Leet-Code/tree/master/1762-furthest-building-you-can-reach) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Platinum0077/Leet-Code/tree/master/0451-sort-characters-by-frequency) |
+| [1762-furthest-building-you-can-reach](https://github.com/Platinum0077/Leet-Code/tree/master/1762-furthest-building-you-can-reach) |
 ## Bucket Sort
 |  |
 | ------- |
