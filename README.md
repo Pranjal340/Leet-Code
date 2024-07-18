@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Platinum0077/Leet-Code/tree/master/0368-largest-divisible-subset) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Platinum0077/Leet-Code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/Platinum0077/Leet-Code/tree/master/0621-task-scheduler) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Platinum0077/Leet-Code/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/Platinum0077/Leet-Code/tree/master/1293-three-consecutive-odds) |
 | [1376-selling-pieces-of-wood](https://github.com/Platinum0077/Leet-Code/tree/master/1376-selling-pieces-of-wood) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Platinum0077/Leet-Code/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Platinum0077/Leet-Code/tree/master/0404-sum-of-left-leaves) |
 | [0514-freedom-trail](https://github.com/Platinum0077/Leet-Code/tree/master/0514-freedom-trail) |
 | [0543-diameter-of-binary-tree](https://github.com/Platinum0077/Leet-Code/tree/master/0543-diameter-of-binary-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Platinum0077/Leet-Code/tree/master/1207-delete-nodes-and-return-forest) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Platinum0077/Leet-Code/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Platinum0077/Leet-Code/tree/master/2121-find-if-path-exists-in-graph) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Platinum0077/Leet-Code/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Platinum0077/Leet-Code/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Platinum0077/Leet-Code/tree/master/0621-task-scheduler) |
 | [0726-number-of-atoms](https://github.com/Platinum0077/Leet-Code/tree/master/0726-number-of-atoms) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Platinum0077/Leet-Code/tree/master/1207-delete-nodes-and-return-forest) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Platinum0077/Leet-Code/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Search
 |  |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Platinum0077/Leet-Code/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Platinum0077/Leet-Code/tree/master/0543-diameter-of-binary-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Platinum0077/Leet-Code/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Platinum0077/Leet-Code/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Platinum0077/Leet-Code/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
@@ -200,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Platinum0077/Leet-Code/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Platinum0077/Leet-Code/tree/master/0543-diameter-of-binary-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Platinum0077/Leet-Code/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Platinum0077/Leet-Code/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Platinum0077/Leet-Code/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Bit Manipulation
