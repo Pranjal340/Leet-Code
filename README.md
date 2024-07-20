@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/Platinum0077/Leet-Code/tree/master/1293-three-consecutive-odds) |
 | [1376-selling-pieces-of-wood](https://github.com/Platinum0077/Leet-Code/tree/master/1376-selling-pieces-of-wood) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Platinum0077/Leet-Code/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Platinum0077/Leet-Code/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/Platinum0077/Leet-Code/tree/master/1720-crawler-log-folder) |
 | [1762-furthest-building-you-can-reach](https://github.com/Platinum0077/Leet-Code/tree/master/1762-furthest-building-you-can-reach) |
 | [1803-average-waiting-time](https://github.com/Platinum0077/Leet-Code/tree/master/1803-average-waiting-time) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Platinum0077/Leet-Code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/Platinum0077/Leet-Code/tree/master/0621-task-scheduler) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Platinum0077/Leet-Code/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Platinum0077/Leet-Code/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1762-furthest-building-you-can-reach](https://github.com/Platinum0077/Leet-Code/tree/master/1762-furthest-building-you-can-reach) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Platinum0077/Leet-Code/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Heap (Priority Queue)
@@ -222,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Platinum0077/Leet-Code/tree/master/0402-remove-k-digits) |
+## Matrix
+|  |
+| ------- |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Platinum0077/Leet-Code/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 <!---LeetCode Topics End-->
