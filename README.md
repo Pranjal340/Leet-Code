@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Platinum0077/Leet-Code/tree/master/0621-task-scheduler) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Platinum0077/Leet-Code/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/Platinum0077/Leet-Code/tree/master/1293-three-consecutive-odds) |
+| [1333-sort-the-jumbled-numbers](https://github.com/Platinum0077/Leet-Code/tree/master/1333-sort-the-jumbled-numbers) |
 | [1376-selling-pieces-of-wood](https://github.com/Platinum0077/Leet-Code/tree/master/1376-selling-pieces-of-wood) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Platinum0077/Leet-Code/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Platinum0077/Leet-Code/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Platinum0077/Leet-Code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/Platinum0077/Leet-Code/tree/master/0621-task-scheduler) |
 | [0726-number-of-atoms](https://github.com/Platinum0077/Leet-Code/tree/master/0726-number-of-atoms) |
+| [1333-sort-the-jumbled-numbers](https://github.com/Platinum0077/Leet-Code/tree/master/1333-sort-the-jumbled-numbers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Platinum0077/Leet-Code/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Platinum0077/Leet-Code/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/Platinum0077/Leet-Code/tree/master/2502-sort-the-people) |
