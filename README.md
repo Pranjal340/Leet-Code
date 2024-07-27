@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Platinum0077/Leet-Code/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Platinum0077/Leet-Code/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Platinum0077/Leet-Code/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Platinum0077/Leet-Code/tree/master/2121-find-if-path-exists-in-graph) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Platinum0077/Leet-Code/tree/master/2472-build-a-matrix-with-conditions) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Platinum0077/Leet-Code/tree/master/0368-largest-divisible-subset) |
 | [0514-freedom-trail](https://github.com/Platinum0077/Leet-Code/tree/master/0514-freedom-trail) |
 | [1376-selling-pieces-of-wood](https://github.com/Platinum0077/Leet-Code/tree/master/1376-selling-pieces-of-wood) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Platinum0077/Leet-Code/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -261,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Platinum0077/Leet-Code/tree/master/0948-sort-an-array) |
+## Shortest Path
+|  |
+| ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Platinum0077/Leet-Code/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 <!---LeetCode Topics End-->
