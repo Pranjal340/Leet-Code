@@ -7,7 +7,7 @@ class Solution {
     vector<vector<int>> ans{{rStart, cStart}};
 
     for (int i = 0; ans.size() < rows * cols; ++i)
-      for (int step = 0; step < i / 2 - 1; ++step) {
+      for (int step = 0; step < i / 2 + 1; ++step) {
         rStart += dy[i % 4];
         cStart += dx[i % 4];
         if (0 <= rStart && rStart < rows && 0 <= cStart && cStart < cols)
