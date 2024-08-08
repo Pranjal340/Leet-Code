@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Platinum0077/Leet-Code/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Platinum0077/Leet-Code/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Platinum0077/Leet-Code/tree/master/0076-minimum-window-substring) |
+| [0273-integer-to-english-words](https://github.com/Platinum0077/Leet-Code/tree/master/0273-integer-to-english-words) |
 | [0387-first-unique-character-in-a-string](https://github.com/Platinum0077/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Platinum0077/Leet-Code/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/Platinum0077/Leet-Code/tree/master/0451-sort-characters-by-frequency) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Platinum0077/Leet-Code/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Platinum0077/Leet-Code/tree/master/0143-reorder-list) |
+| [0273-integer-to-english-words](https://github.com/Platinum0077/Leet-Code/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Platinum0077/Leet-Code/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Hash Table
 |  |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0273-integer-to-english-words](https://github.com/Platinum0077/Leet-Code/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/Platinum0077/Leet-Code/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/Platinum0077/Leet-Code/tree/master/0368-largest-divisible-subset) |
 | [1642-water-bottles](https://github.com/Platinum0077/Leet-Code/tree/master/1642-water-bottles) |
