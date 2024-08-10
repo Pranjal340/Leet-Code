@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Platinum0077/Leet-Code/tree/master/0368-largest-divisible-subset) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Platinum0077/Leet-Code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/Platinum0077/Leet-Code/tree/master/0621-task-scheduler) |
+| [0870-magic-squares-in-grid](https://github.com/Platinum0077/Leet-Code/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Platinum0077/Leet-Code/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/Platinum0077/Leet-Code/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/Platinum0077/Leet-Code/tree/master/1196-filling-bookcase-shelves) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Platinum0077/Leet-Code/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Platinum0077/Leet-Code/tree/master/0621-task-scheduler) |
 | [0726-number-of-atoms](https://github.com/Platinum0077/Leet-Code/tree/master/0726-number-of-atoms) |
+| [0870-magic-squares-in-grid](https://github.com/Platinum0077/Leet-Code/tree/master/0870-magic-squares-in-grid) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Platinum0077/Leet-Code/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Platinum0077/Leet-Code/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Platinum0077/Leet-Code/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/Platinum0077/Leet-Code/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/Platinum0077/Leet-Code/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/Platinum0077/Leet-Code/tree/master/0368-largest-divisible-subset) |
+| [0870-magic-squares-in-grid](https://github.com/Platinum0077/Leet-Code/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/Platinum0077/Leet-Code/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Platinum0077/Leet-Code/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/Platinum0077/Leet-Code/tree/master/2645-pass-the-pillow) |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0870-magic-squares-in-grid](https://github.com/Platinum0077/Leet-Code/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Platinum0077/Leet-Code/tree/master/0921-spiral-matrix-iii) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Platinum0077/Leet-Code/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Platinum0077/Leet-Code/tree/master/2472-build-a-matrix-with-conditions) |
