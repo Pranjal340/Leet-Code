@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/Platinum0077/Leet-Code/tree/master/0999-regions-cut-by-slashes) |
 | [1196-filling-bookcase-shelves](https://github.com/Platinum0077/Leet-Code/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Platinum0077/Leet-Code/tree/master/1207-delete-nodes-and-return-forest) |
+| [1240-stone-game-ii](https://github.com/Platinum0077/Leet-Code/tree/master/1240-stone-game-ii) |
 | [1293-three-consecutive-odds](https://github.com/Platinum0077/Leet-Code/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Platinum0077/Leet-Code/tree/master/1333-sort-the-jumbled-numbers) |
 | [1376-selling-pieces-of-wood](https://github.com/Platinum0077/Leet-Code/tree/master/1376-selling-pieces-of-wood) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Platinum0077/Leet-Code/tree/master/0368-largest-divisible-subset) |
 | [0650-2-keys-keyboard](https://github.com/Platinum0077/Leet-Code/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/Platinum0077/Leet-Code/tree/master/0870-magic-squares-in-grid) |
+| [1240-stone-game-ii](https://github.com/Platinum0077/Leet-Code/tree/master/1240-stone-game-ii) |
 | [1642-water-bottles](https://github.com/Platinum0077/Leet-Code/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Platinum0077/Leet-Code/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/Platinum0077/Leet-Code/tree/master/2645-pass-the-pillow) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0514-freedom-trail](https://github.com/Platinum0077/Leet-Code/tree/master/0514-freedom-trail) |
 | [0650-2-keys-keyboard](https://github.com/Platinum0077/Leet-Code/tree/master/0650-2-keys-keyboard) |
 | [1196-filling-bookcase-shelves](https://github.com/Platinum0077/Leet-Code/tree/master/1196-filling-bookcase-shelves) |
+| [1240-stone-game-ii](https://github.com/Platinum0077/Leet-Code/tree/master/1240-stone-game-ii) |
 | [1376-selling-pieces-of-wood](https://github.com/Platinum0077/Leet-Code/tree/master/1376-selling-pieces-of-wood) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Platinum0077/Leet-Code/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/Platinum0077/Leet-Code/tree/master/1511-count-number-of-teams) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Platinum0077/Leet-Code/tree/master/0238-product-of-array-except-self) |
+| [1240-stone-game-ii](https://github.com/Platinum0077/Leet-Code/tree/master/1240-stone-game-ii) |
 ## Tree
 |  |
 | ------- |
@@ -354,4 +358,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Platinum0077/Leet-Code/tree/master/0789-kth-largest-element-in-a-stream) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/Platinum0077/Leet-Code/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
