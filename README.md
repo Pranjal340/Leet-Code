@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Platinum0077/Leet-Code/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/Platinum0077/Leet-Code/tree/master/0451-sort-characters-by-frequency) |
 | [0514-freedom-trail](https://github.com/Platinum0077/Leet-Code/tree/master/0514-freedom-trail) |
+| [0664-strange-printer](https://github.com/Platinum0077/Leet-Code/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/Platinum0077/Leet-Code/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Platinum0077/Leet-Code/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Platinum0077/Leet-Code/tree/master/1720-crawler-log-folder) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Platinum0077/Leet-Code/tree/master/0368-largest-divisible-subset) |
 | [0514-freedom-trail](https://github.com/Platinum0077/Leet-Code/tree/master/0514-freedom-trail) |
 | [0650-2-keys-keyboard](https://github.com/Platinum0077/Leet-Code/tree/master/0650-2-keys-keyboard) |
+| [0664-strange-printer](https://github.com/Platinum0077/Leet-Code/tree/master/0664-strange-printer) |
 | [1196-filling-bookcase-shelves](https://github.com/Platinum0077/Leet-Code/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/Platinum0077/Leet-Code/tree/master/1240-stone-game-ii) |
 | [1376-selling-pieces-of-wood](https://github.com/Platinum0077/Leet-Code/tree/master/1376-selling-pieces-of-wood) |
