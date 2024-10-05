@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Platinum0077/Leet-Code/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Platinum0077/Leet-Code/tree/master/0143-reorder-list) |
+| [0432-all-oone-data-structure](https://github.com/Pranjal340/Leet-Code/tree/master/0432-all-oone-data-structure) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Platinum0077/Leet-Code/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Platinum0077/Leet-Code/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Recursion
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Platinum0077/Leet-Code/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Platinum0077/Leet-Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Platinum0077/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
+| [0432-all-oone-data-structure](https://github.com/Pranjal340/Leet-Code/tree/master/0432-all-oone-data-structure) |
 | [0451-sort-characters-by-frequency](https://github.com/Platinum0077/Leet-Code/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Platinum0077/Leet-Code/tree/master/0621-task-scheduler) |
 | [0726-number-of-atoms](https://github.com/Platinum0077/Leet-Code/tree/master/0726-number-of-atoms) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/Pranjal340/Leet-Code/tree/master/0432-all-oone-data-structure) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Platinum0077/Leet-Code/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -387,4 +390,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Platinum0077/Leet-Code/tree/master/1240-stone-game-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/Pranjal340/Leet-Code/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
