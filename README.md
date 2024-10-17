@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Platinum0077/Leet-Code/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/Platinum0077/Leet-Code/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Platinum0077/Leet-Code/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0670-maximum-swap](https://github.com/Platinum0077/Leet-Code/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Platinum0077/Leet-Code/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Platinum0077/Leet-Code/tree/master/1304-longest-happy-string) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Platinum0077/Leet-Code/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Platinum0077/Leet-Code/tree/master/0368-largest-divisible-subset) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Platinum0077/Leet-Code/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/Platinum0077/Leet-Code/tree/master/0650-2-keys-keyboard) |
+| [0670-maximum-swap](https://github.com/Platinum0077/Leet-Code/tree/master/0670-maximum-swap) |
 | [0870-magic-squares-in-grid](https://github.com/Platinum0077/Leet-Code/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/Platinum0077/Leet-Code/tree/master/1240-stone-game-ii) |
 | [1642-water-bottles](https://github.com/Platinum0077/Leet-Code/tree/master/1642-water-bottles) |
