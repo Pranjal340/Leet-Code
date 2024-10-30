@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/Platinum0077/Leet-Code/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Platinum0077/Leet-Code/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1762-furthest-building-you-can-reach](https://github.com/Platinum0077/Leet-Code/tree/master/1762-furthest-building-you-can-reach) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Platinum0077/Leet-Code/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1803-average-waiting-time](https://github.com/Platinum0077/Leet-Code/tree/master/1803-average-waiting-time) |
 | [1923-sentence-similarity-iii](https://github.com/Pranjal340/Leet-Code/tree/master/1923-sentence-similarity-iii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Platinum0077/Leet-Code/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Platinum0077/Leet-Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Platinum0077/Leet-Code/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Platinum0077/Leet-Code/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Platinum0077/Leet-Code/tree/master/2586-longest-square-streak-in-an-array) |
 ## Sliding Window
 |  |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Platinum0077/Leet-Code/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Platinum0077/Leet-Code/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1762-furthest-building-you-can-reach](https://github.com/Platinum0077/Leet-Code/tree/master/1762-furthest-building-you-can-reach) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Platinum0077/Leet-Code/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Platinum0077/Leet-Code/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Platinum0077/Leet-Code/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Platinum0077/Leet-Code/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Platinum0077/Leet-Code/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/Platinum0077/Leet-Code/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Platinum0077/Leet-Code/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Platinum0077/Leet-Code/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Platinum0077/Leet-Code/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Platinum0077/Leet-Code/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Platinum0077/Leet-Code/tree/master/2794-maximum-number-of-moves-in-a-grid) |
