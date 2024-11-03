@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/Platinum0077/Leet-Code/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/Platinum0077/Leet-Code/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/Platinum0077/Leet-Code/tree/master/0726-number-of-atoms) |
+| [0812-rotate-string](https://github.com/Platinum0077/Leet-Code/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Platinum0077/Leet-Code/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/Platinum0077/Leet-Code/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Platinum0077/Leet-Code/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -484,4 +485,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Platinum0077/Leet-Code/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Platinum0077/Leet-Code/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Platinum0077/Leet-Code/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
