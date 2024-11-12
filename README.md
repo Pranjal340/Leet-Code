@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2067-maximum-number-of-points-with-cost](https://github.com/Platinum0077/Leet-Code/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Platinum0077/Leet-Code/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Platinum0077/Leet-Code/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/Platinum0077/Leet-Code/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Platinum0077/Leet-Code/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Platinum0077/Leet-Code/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Platinum0077/Leet-Code/tree/master/2472-build-a-matrix-with-conditions) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Platinum0077/Leet-Code/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Platinum0077/Leet-Code/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Platinum0077/Leet-Code/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/Platinum0077/Leet-Code/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Platinum0077/Leet-Code/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/Platinum0077/Leet-Code/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Pranjal340/Leet-Code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Platinum0077/Leet-Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Platinum0077/Leet-Code/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Platinum0077/Leet-Code/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/Platinum0077/Leet-Code/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Platinum0077/Leet-Code/tree/master/2586-longest-square-streak-in-an-array) |
 ## Sliding Window
 |  |
