@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Platinum0077/Leet-Code/tree/master/0016-3sum-closest) |
+| [0027-remove-element](https://github.com/Platinum0077/Leet-Code/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Platinum0077/Leet-Code/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Platinum0077/Leet-Code/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Platinum0077/Leet-Code/tree/master/0189-rotate-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Platinum0077/Leet-Code/tree/master/0016-3sum-closest) |
+| [0027-remove-element](https://github.com/Platinum0077/Leet-Code/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Platinum0077/Leet-Code/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/Platinum0077/Leet-Code/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/Platinum0077/Leet-Code/tree/master/0189-rotate-array) |
