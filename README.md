@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/Platinum0077/Leet-Code/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Platinum0077/Leet-Code/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Platinum0077/Leet-Code/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2358-number-of-ways-to-split-array](https://github.com/Platinum0077/Leet-Code/tree/master/2358-number-of-ways-to-split-array) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Platinum0077/Leet-Code/tree/master/2472-build-a-matrix-with-conditions) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Platinum0077/Leet-Code/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/Platinum0077/Leet-Code/tree/master/2502-sort-the-people) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Platinum0077/Leet-Code/tree/master/0238-product-of-array-except-self) |
 | [1240-stone-game-ii](https://github.com/Platinum0077/Leet-Code/tree/master/1240-stone-game-ii) |
 | [1694-make-sum-divisible-by-p](https://github.com/Pranjal340/Leet-Code/tree/master/1694-make-sum-divisible-by-p) |
+| [2358-number-of-ways-to-split-array](https://github.com/Platinum0077/Leet-Code/tree/master/2358-number-of-ways-to-split-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Platinum0077/Leet-Code/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Tree
 |  |
