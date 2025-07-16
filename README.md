@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/Platinum0077/Leet-Code/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Platinum0077/Leet-Code/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/Platinum0077/Leet-Code/tree/master/0948-sort-an-array) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Pranjal340/Leet-Code/tree/master/0954-maximum-sum-circular-subarray) |
 | [0999-regions-cut-by-slashes](https://github.com/Platinum0077/Leet-Code/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/Platinum0077/Leet-Code/tree/master/1002-maximum-width-ramp) |
 | [1196-filling-bookcase-shelves](https://github.com/Platinum0077/Leet-Code/tree/master/1196-filling-bookcase-shelves) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Platinum0077/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Pranjal340/Leet-Code/tree/master/0954-maximum-sum-circular-subarray) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Platinum0077/Leet-Code/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Counting
 |  |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0514-freedom-trail](https://github.com/Platinum0077/Leet-Code/tree/master/0514-freedom-trail) |
 | [0650-2-keys-keyboard](https://github.com/Platinum0077/Leet-Code/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/Platinum0077/Leet-Code/tree/master/0664-strange-printer) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Pranjal340/Leet-Code/tree/master/0954-maximum-sum-circular-subarray) |
 | [1196-filling-bookcase-shelves](https://github.com/Platinum0077/Leet-Code/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/Platinum0077/Leet-Code/tree/master/1240-stone-game-ii) |
 | [1376-selling-pieces-of-wood](https://github.com/Platinum0077/Leet-Code/tree/master/1376-selling-pieces-of-wood) |
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Platinum0077/Leet-Code/tree/master/0948-sort-an-array) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Pranjal340/Leet-Code/tree/master/0954-maximum-sum-circular-subarray) |
 ## Merge Sort
 |  |
 | ------- |
@@ -530,4 +534,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0812-rotate-string](https://github.com/Platinum0077/Leet-Code/tree/master/0812-rotate-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Platinum0077/Leet-Code/tree/master/2292-counting-words-with-a-given-prefix) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/Pranjal340/Leet-Code/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
