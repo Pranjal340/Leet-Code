@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Platinum0077/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Platinum0077/Leet-Code/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Platinum0077/Leet-Code/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Pranjal340/Leet-Code/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Platinum0077/Leet-Code/tree/master/0076-minimum-window-substring) |
 | [0273-integer-to-english-words](https://github.com/Platinum0077/Leet-Code/tree/master/0273-integer-to-english-words) |
 | [0387-first-unique-character-in-a-string](https://github.com/Platinum0077/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Pranjal340/Leet-Code/tree/master/0067-add-binary) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Platinum0077/Leet-Code/tree/master/0592-fraction-addition-and-subtraction) |
 | [0921-spiral-matrix-iii](https://github.com/Platinum0077/Leet-Code/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/Platinum0077/Leet-Code/tree/master/1642-water-bottles) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Pranjal340/Leet-Code/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Platinum0077/Leet-Code/tree/master/0189-rotate-array) |
 | [0264-ugly-number-ii](https://github.com/Platinum0077/Leet-Code/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Platinum0077/Leet-Code/tree/master/0273-integer-to-english-words) |
@@ -441,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Pranjal340/Leet-Code/tree/master/0067-add-binary) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Platinum0077/Leet-Code/tree/master/0201-bitwise-and-of-numbers-range) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Platinum0077/Leet-Code/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Platinum0077/Leet-Code/tree/master/3291-find-if-array-can-be-sorted) |
