@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Platinum0077/Leet-Code/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Platinum0077/Leet-Code/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pranjal340/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Platinum0077/Leet-Code/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/Platinum0077/Leet-Code/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/Platinum0077/Leet-Code/tree/master/0189-rotate-array) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Pranjal340/Leet-Code/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Platinum0077/Leet-Code/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pranjal340/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Platinum0077/Leet-Code/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Platinum0077/Leet-Code/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Pranjal340/Leet-Code/tree/master/0067-add-binary) |
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pranjal340/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/Platinum0077/Leet-Code/tree/master/0812-rotate-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Platinum0077/Leet-Code/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Monotonic Queue
