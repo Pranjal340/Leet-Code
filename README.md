@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Platinum0077/Leet-Code/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Pranjal340/Leet-Code/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Platinum0077/Leet-Code/tree/master/0076-minimum-window-substring) |
+| [0214-shortest-palindrome](https://github.com/Pranjal340/Leet-Code/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/Pranjal340/Leet-Code/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/Platinum0077/Leet-Code/tree/master/0273-integer-to-english-words) |
 | [0387-first-unique-character-in-a-string](https://github.com/Platinum0077/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
@@ -545,10 +546,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pranjal340/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/Pranjal340/Leet-Code/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/Platinum0077/Leet-Code/tree/master/0812-rotate-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Platinum0077/Leet-Code/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/Pranjal340/Leet-Code/tree/master/0954-maximum-sum-circular-subarray) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Pranjal340/Leet-Code/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Pranjal340/Leet-Code/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
