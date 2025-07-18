@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Platinum0077/Leet-Code/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Platinum0077/Leet-Code/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Platinum0077/Leet-Code/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/Pranjal340/Leet-Code/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Platinum0077/Leet-Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Platinum0077/Leet-Code/tree/master/0368-largest-divisible-subset) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Platinum0077/Leet-Code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Platinum0077/Leet-Code/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Platinum0077/Leet-Code/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Pranjal340/Leet-Code/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/Pranjal340/Leet-Code/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Platinum0077/Leet-Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Platinum0077/Leet-Code/tree/master/0368-largest-divisible-subset) |
 | [0451-sort-characters-by-frequency](https://github.com/Platinum0077/Leet-Code/tree/master/0451-sort-characters-by-frequency) |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/Pranjal340/Leet-Code/tree/master/0274-h-index) |
 | [0948-sort-an-array](https://github.com/Platinum0077/Leet-Code/tree/master/0948-sort-an-array) |
 ## Shortest Path
 |  |
