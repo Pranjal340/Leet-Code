@@ -16,8 +16,7 @@ public:
                     cnt++;
                 }
                 res = max(res, cnt);
-            }
-            
+            } 
         }
         return res;        
     }
